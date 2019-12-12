@@ -1,0 +1,124 @@
+body {
+  color: #40514E;
+  text-align: center;
+  font-family: 'Gelasio', serif;
+}
+
+
+h1 {
+  font-size: 5rem;
+  font-family: 'Mansalva', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Merriweather', serif;
+  color: #66BFBF;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: normal;
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+hr {
+  border: dotted #e5dfdf;
+  border-width: 0 0 9px 0;
+  width: 5%;
+  margin: 50px auto;
+}
+
+.top-container {
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  padding-top: 50px;
+}
+
+.acknowledgement {
+  font-size: 10px;
+}
+
+.profile_pic {
+  margin-top: 80px;
+  max-width: 15%;
+}
+
+.do {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: relative;
+  left: 330px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: relative;
+  right: 30px;
+  bottom: 320px;
+}
+
+.mountain {
+  position: relative;
+  right: 50px;
+}
+
+.icon {
+  max-width: 3%;
+  margin: 5px;
+}
+
+.social_media {
+  margin-top: 20px;
+}
+
+.skill_row {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.skills {
+  text-align: left;
+}
+
+.skills_img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact_button {
+	box-shadow: 3px 3px 11px 0px #276873;
+	background-color:#66bfbf;
+	border-radius:18px;
+	border:2px solid #66bfbf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:19px;
+	font-weight:bold;
+	padding:8px 14px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #bcc2bd;
+}
+.contact_button:hover {
+	background-color:#66bfbf;
+}
+.contact_button:active {
+	position:relative;
+	top:1px;
+}
+
+.media_acknowledgement {
+  color: white;
+  font-size: 12px;
+  margin-top: 50px;
+  padding: 30px;
+  background-color: #66BFBF;
+}
